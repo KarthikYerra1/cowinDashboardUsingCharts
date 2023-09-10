@@ -1,0 +1,15 @@
+.graph-heading {
+  color: #94a3b8;
+  font-family: 'Roboto';
+  font-size: 24px;
+  margin-bottom: 30px;
+}
+
+.graph-container {
+  background-color: #1c1c2b;
+  background-size: cover;
+  padding: 20px;
+  font-family: 'Roboto';
+  color: #94a3b8;
+  margin-bottom: 20px;
+}
